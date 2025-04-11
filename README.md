@@ -35,6 +35,7 @@ License
 MIT License — free to use, modify, and share!
 
 thanku sir ....
-
-
-
+team Leader :- Nikhil Agrahari
+Team member 1 :- Devansh Yadav
+Team member 2 :- Jyoti kashyap 
+section       :-    BCA12 
