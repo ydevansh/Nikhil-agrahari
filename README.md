@@ -1,7 +1,6 @@
 # Nikhil-agrahari
 
 
----
 
 ## How to Install & Test Locally
 Open Chrome and go to:  
@@ -21,7 +20,6 @@ Click the extension icon to view:
 
 If you spend more than 30 minutes on any one site, you'll receive a notification.
 
----
 
 Permissions Used
 
@@ -29,20 +27,14 @@ Permissions Used
 - `storage` – to save usage time locally
 - `notifications` – to alert the user on overuse
 
----
 Why This Matters
 
 This tool helps improve digital mindfulness and reduce unproductive screen time — especially on addictive platforms or AI playgrounds.
 
----
 
 License
 
 MIT License — free to use, modify, and share!
-
----
-
- Author
 
 
 
