@@ -22,7 +22,8 @@
       "*://*.gemini.google.com/*",
       "*://*.facebook.com/*",
       "*://*.instagram.com/*",
-      "*://*.youtube.com/*"
+      "*://*.youtube.com/*",
+      "*://*.replit.com/*"
     ],
     "icons": {
       "16": "icon.png",
